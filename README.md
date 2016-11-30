@@ -33,7 +33,8 @@ We use Viterbi decoding to find the best tag sequence for the test data. After e
 Python (>=2.7)
 
 <b>To Run</b>
-<c>Just do python HMMgem.py \<train_file\> \<test_file\> \<raw_file\> </c>
+
+<code>python HMMgem.py \<train_file\> \<test_file\> \<raw_file\> </code>
 
 <b>For More Details:</b>
 The code is an attempt to algorithmically simulate  and generalize  what was mentioned in this following paper.
