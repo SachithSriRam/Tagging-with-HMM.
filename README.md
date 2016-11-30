@@ -38,6 +38,7 @@ Python (>=2.7)
 
 <b>For More Details:</b>
 The code is an attempt to algorithmically simulate  and generalize  what was mentioned in this following paper.
-Refer “Eisner, J. (2002). An interactive spreadsheet for teaching the forward-backward algorithm. In Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching NLP and CL, pp. 10–18” 
+ 
+ “Eisner, J. (2002). An interactive spreadsheet for teaching the forward-backward algorithm. In Proceedings of the ACL Workshop on Effective Tools and Methodologies for Teaching NLP and CL, pp. 10–18” 
 
 Link to his related lecture : https://vimeo.com/31374528
